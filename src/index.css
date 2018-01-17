@@ -1,15 +1,8 @@
-/* body {
-    background-color: yellow;
-  }
-  #root {
-    height: 400px;
-    background-image: url('./react.png');
-    background-size: cover;
-    background-position: center;
-    color: white;
-  } */
-
-
-  body {
-    background-color: yellow;
-  }
+body {
+  background-color: yellow;
+}
+#root {
+  height: 400px;
+  background-color: purple;
+  /* background: url('./react.png'); */
+}
